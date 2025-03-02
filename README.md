@@ -21,4 +21,4 @@ chmod +x /path/to/setup.sh
 ./path/to/setup.sh
 ```
 
-Perhaps you can tweak it towards whatever your development setup looks like.
+Perhaps you can tweak this towards whatever your development setup looks like.
